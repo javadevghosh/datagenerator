@@ -1,0 +1,8 @@
+vulnerabilities/project/target/
+vulnerabilities/target/
+vulnerabilities/.sbtserver/
+vulnerabilities/.idea/
+vulnerabilities/project/project/target/
+vulnerabilities/project/.sbtserver
+vulnerabilities/project/.sbtserver.lock
+vulnerabilities/libexec/
